@@ -1,2 +1,4 @@
 .env
 google_bot_key.json
+__pycache__/
+venv/
